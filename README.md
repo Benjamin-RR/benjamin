@@ -35,6 +35,8 @@
             </h3>
             <p>
                 Hands down would be my expierience at <a href="https://vksapp.com" target="_blank">VKS</a>. Their website was going through growth pains, where their demand was out performing the tech stack's capabilities. I was given project ownership of "Website Stability" in which I led research, architecture design, development, deligated tasks to team members, load/stress tested systems, navigating both frontend and backend frameworks while also taking it upon myself to revamp their web development work flow, mitigating merge conflicts by over 90% in a team based work environment, and completely eliminating all production push crashes by 100% while simultaneously improving their file folder management system creating a new standardization of development practices for all web developers which increased productivity by a factor of 3.
+
+                In the first year of these changes the company saved over $91k in annual costs, or a better way to view it, they gained significantly more time which is currently propelling them past their competitors.
             </p>
         </td>
     </tr>
