@@ -34,8 +34,7 @@
                 Biggest Professional Achievement To Date?
             </h3>
             <p>
-                Hands down would be my expierience at <a href="https://vksapp.com" target="_blank">VKS</a>. Their website was going through growth pains, where their demand was out performing the tech stack's capabilities. I was given project ownership of "Website Stability" in which I led research, architecture design, development, deligated tasks to team members, load/stress tested systems, navigating both frontend and backend frameworks while also taking it upon myself to revamp their web development work flow, mitigating merge conflicts by over 90% in a team based work environment, and completely eliminating all production push crashes by 100% while simultaneously improving their file folder management system creating a new standardization of development practices for all web developers which increased productivity by a factor of 3.
-
+                Hands down would be my expierience at <a href="https://vksapp.com" target="_blank">VKS</a>. Their website was going through growth pains, where their demand was out performing the tech stack's capabilities. I was given project ownership of "Website Stability" in which I led research, architecture design, development, deligated tasks to team members, load/stress tested systems, navigating both frontend and backend frameworks while also taking it upon myself to revamp their web development work flow, mitigating merge conflicts by over 90% in a team based work environment, and completely eliminating all production push crashes by 100% while simultaneously improving their file folder management system creating a new standardization of development practices for all web developers which increased productivity by a factor of 3.<br/><br/>
                 In the first year of these changes the company saved over $91k in annual costs, or a better way to view it, they gained significantly more time which is currently propelling them past their competitors.
             </p>
         </td>
@@ -46,7 +45,7 @@
                 What Am I Currently Working On?
             </h3>
             <p>
-                My projects are many. From projects on web3 blockchain technologies, automating routine tasks, to roguelike video games. Currently I am investing more time in my Youtube bots that can self research, record, and post videos. It notifies me when it posts or fails to post a video, and will give a social media post of the new youtube video once it goes live. I am constantly developing, and love the creative freedom this industry gives. The possibilities are endless.
+                My projects are many. From projects on web3 blockchain technologies, automating routine tasks, to roguelike video games. Currently I am investing more time in a micro b2b saas project that is projected to match my current day job annual salary. I am constantly developing,, learning, and I love the creative freedom this industry gives. The possibilities are endless.
             </p>
         </td>
         <td width="50%" align="center">
