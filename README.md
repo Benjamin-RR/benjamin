@@ -2,7 +2,7 @@
     <section align="center" >
     <h1>Hello, I'm Benjamin-RR</h1>
         <div>
-        <a href="https://benjamin-rr.com/" target="_blank"><img src="./public/media/web.png" alt="web icon" width="18"> benjamin-rr.com</a> 
+        <a href="https://www.benjamin-rr.com/" target="_blank"><img src="./public/media/web.png" alt="web icon" width="18"> benjamin-rr.com</a> 
         <a href="https://www.linkedin.com/in/benjaminrobertrussell/" target="_blank"><img src="./public/media/linkedin.png" alt="web icon" width="18"> LinkedIn</a> 
         <a href="https://www.youtube.com/@benjaminrr128" target="_blank"><img src="./public/media/youtube.png" alt="web icon" width="18"> Youtube</a> 
         <a href="https://www.instagram.com/benjamin_r_r/" target="_blank"><img src="./public/media/instagram.png" alt="web icon" width="18"> Instagram</a>
@@ -15,7 +15,7 @@
     <tr>
         <td width="50%" >
             <h3>
-                I am a Full Stack Web Developer. 
+                I am an Founder & Entrepreneur, a Full Stack Web Developer, Author, and Artist.
             </h3>
             <p>
                 I have knack for saving companies thousands of hours and dollars automating repetive website management tasks seeing productivity increase in those tasks as high as 95% increase.
@@ -45,7 +45,7 @@
                 What Am I Currently Working On?
             </h3>
             <p>
-                My projects are many. From projects on web3 blockchain technologies, automating routine tasks, to roguelike video games. Currently I am investing more time in a micro b2b saas project that is projected to match my current day job annual salary. I am constantly developing,, learning, and I love the creative freedom this industry gives. The possibilities are endless.
+                I am currently repurposing a personal project of mine that saved me hours in my day job managing sitemaps for a multilingual website. My online software tool fully automates creation of sitemaps for multilingual websites, making it a breeze to manage. If you're interested in finding out more, you can find more information on it <a href="https://www.benjamin-rr.com/sitemap-linguist" target="_blank">here</a>.
             </p>
         </td>
         <td width="50%" align="center">
