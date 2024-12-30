@@ -2,7 +2,7 @@
     <section align="center" >
     <h1>Hello, I'm Benjamin-RR</h1>
         <div>
-        <a href="https://www.benjamin-rr.com/" target="_blank"><img src="./public/media/web.png" alt="web icon" width="18"> benjamin-rr.com</a> 
+        <a href="https://www.benjamin-rr.com?f=github" target="_blank"><img src="./public/media/web.png" alt="web icon" width="18"> benjamin-rr.com</a> 
         <a href="https://www.linkedin.com/in/benjaminrobertrussell/" target="_blank"><img src="./public/media/linkedin.png" alt="web icon" width="18"> LinkedIn</a> 
         <a href="https://www.youtube.com/@benjaminrr128" target="_blank"><img src="./public/media/youtube.png" alt="web icon" width="18"> Youtube</a> 
         <a href="https://www.instagram.com/benjamin_r_r/" target="_blank"><img src="./public/media/instagram.png" alt="web icon" width="18"> Instagram</a>
